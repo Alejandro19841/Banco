@@ -1,1 +1,1 @@
-# Banco
+# Banco An object-oriented Java application designed to model and manage bank account behaviors. This project implements clean code practices through structured classes, enumerations (Enums), strict business logic validations, and encapsulated methods.
